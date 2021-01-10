@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## About the Project
-This is a project from the youtube channel 'The Net Ninja'
+This is a project from the youtube channel 'The Net Ninja'!
