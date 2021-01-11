@@ -1,10 +1,11 @@
 <template>
-
+  <p>Reaction Time: {{ score }} ms</p>
 </template>
 
 <script>
 export default {
-  name: "Results"
+  name: "Results",
+  props:['score']
 }
 </script>
 
